@@ -163,3 +163,7 @@ Unicode oddities
 Unicode tries to encode all of written language.
 
 > "The deepest philosophical knowledge lies already prepared in language." - Nietzsche
+
+---
+
+Part 2 : Emojis & Fonts
